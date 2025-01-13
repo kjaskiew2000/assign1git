@@ -1,3 +1,3 @@
 # assign1git
 Karolina Jaśkiewicz
-// First comment
+// First learning comment
